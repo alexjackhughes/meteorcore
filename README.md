@@ -7,9 +7,9 @@ and you can just focus on creating new features.
 
 ## Getting Started
 You've made a wise choice, *friend* - To kick it off, type the following:
-`git clone https://github.com/alexjackhughes/meteorcore.git`⋅⋅
-`cd meteor-core`⋅⋅
-`npm start`⋅⋅
+`git clone https://github.com/alexjackhughes/meteorcore.git`  
+`cd meteor-core`  
+`npm start`  
 
 And you're done! Navigate to
 `http://localhost:3000/`
