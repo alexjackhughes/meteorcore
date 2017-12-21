@@ -1,4 +1,4 @@
-# Template Application
+# Meteor Core
 This is a lightweight boilerplate app based off Meteor + React, so that
 you don't have to do all the boring stuff like set-up accounts.
 
@@ -7,17 +7,18 @@ and you can just focus on creating new features.
 
 ## Getting Started
 You've made a wise choice, *friend* - To kick it off, type the following:
-`git clone https://github.com/alexjackhughes/meteorcore.git`
-`cd meteor-core`
-`npm start`
+`git clone https://github.com/alexjackhughes/meteorcore.git`⋅⋅
+`cd meteor-core`⋅⋅
+`npm start`⋅⋅
 
 And you're done! Navigate to
 `http://localhost:3000/`
-to see the fruits of your labour! Hell, take the rest of the day off. You've earned it.
+and see the fruits of your labour! Hell, take the rest of the day off. You've earned it.
 
 ## Author
-* **Alexander Jack Hughes** - *Main Author* - [AlexJackHughes](https://github.com/alexjackhughes)
+* **Alexander Jack Hughes** - *Main Author* - [github](https://github.com/alexjackhughes)
 * [alexjackhughes.com](https://alexjackhughes.com)
+* [Twitter](https://twitter.com/alexjackhughes)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
